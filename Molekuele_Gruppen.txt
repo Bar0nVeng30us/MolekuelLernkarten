@@ -1,0 +1,123 @@
+01001, Butan
+01002, iso-Butan
+01003, Pentan
+01004, iso-Pentan
+01005, neo-Pentan
+01006, Chlormethan
+01007, Dichlormethan / Methylenchlorid
+01008, Trichlormethan / Chloroform
+01009, Tetrachlormethan / Tetrachlorkohlenstoff / Tetra
+01010, Isopren
+01011, Ethylen
+01012, Acetylen
+01013, Vinylchlorid
+01014, Vinylrest (Ethylenrest)
+01015, Allychlorid
+01016, Allylrest
+01017, Bicyclo[4.4.0]decan / Decalin
+02018, Benzol
+02019, Toluol
+02020, Phenyl-Rest
+02021, Benzyl-Rest
+02022, Vynilbenzol oder Styrol (Monomer von Polystrol / Styropor)
+02023, Naphtalin
+02024, Anthracen
+02025, Phenanthren
+02026, Inden (vg. Indigo)
+03027, Phenol
+03028, Benzaldehyd
+03029, Benzoesäure
+03030, Salicylsäure
+03031, Acetsalicylsäure (ASS)
+03032, Trinitroluol (TNT)
+03033, Vanilin
+03034, Anisol
+03035, Anilin
+03036, Nitrobenzol
+03037, Hydrochinon
+03038, Brenzkatechin
+03039, Resorcin
+04040, 1-Propanol / Propanol
+04041, 2-Propanol / iso-Propylalkohol
+04042, 1-Butanol
+04043, 2-Butanol / sek-Butanol
+04044, iso-Butanol
+04045, tert-Butanol
+04046, Glycol / Ethylenglycol
+04047, Glycerin
+04048, Ethanolamin
+05049, Ether / Diethylether
+05050, Ethylenoxid
+05051, Tetrahydrofuran (THF)
+05052, Tetrahydropyran
+05053, 1.4-Dioxan
+06054, Aceton / 2-Propanon
+06055, Acetylaceton
+06056, p-Chinon / Chinon 
+06057, Formaldehyd / Methanal
+06058, Acetaldehyd / Ethanal
+06059, Glycerinaldehyd
+07060, D-Glucopyranose / D-Glucose
+07061, D-Galactopyranose / D-Galactose
+07062, D-Mannopyranose / D-Mannose
+07063, D-Glucose (Fischer)
+07064, D-Galactose (Fischer)
+07065, D-Mannose (Fischer)
+07066, D-Ribofuranose / D-Ribose
+07067, 2-Desoxy-D-ribofuranose / 2-Desoxy-D-ribose
+07068, D-Ribose
+07069, Lactose / 4-O-(BETA-D-Galactopyranosyl)-D-glucopyranose
+07070, Saccharose / Sucrose / ALPHA-D-Glucopyranosyl-BETA-D-fructofuranosid
+08071, Methansäure / Ameisensäure
+08072, Ethansäure (Anion: Acetat) / Essigsäure
+08073, Propansäure / Propionsäure
+08074, Butansäure (Anion: Butyrat) / Buttersäure
+08075, Kohlensäure
+08076, Oxalsäure (Anion: Oxalat)
+08077, Malonsäure (Anion: Malonat)
+08078, Bernsteinsäure (Anion: Succinat)
+08079, Maleinsäure (Anion: Maleat)
+08080, Fumarsäure (Anion: Fumarat)
+08081, Milchsäure / 2-Hydroxypropansäure (Anion: Lactat)
+08082, Brenztraubensäure / ALPHA-Ketosäure (Anion: Pyruvat)
+08083, Äpfelsäure / 2-Hydroxybernsteinsäure (Anion: Malat)
+08084, Weinsäure (Anion: Tatrat)
+08085, Citronensäure (Anion: Citrat)
+09086, L-Glycin
+09087, L-Alanin
+09088, L-Serin
+09089, L-Cystein
+09090, L-Phenylalanin
+09091, L-Tyrosin
+09092, L-Asparaginsäure
+09093, L-Asparagin
+10094, Harnstoff
+10095, Guanidin
+10096, Phosgen
+11097, Tetrahydrofuran (THF)
+11098, Furan
+11099, Pyrrolidin
+11100, Pyrrol
+11101, Thiophen
+11102, Thiazol
+11103, Histidin
+11104, Imidazol
+11105, Histamin
+11106, Pyran
+11107, Tetrahydropyran
+11108, 1.4-Dioxan
+11109, Piperidin
+11110, Pyridin
+11111, Pyrimidin
+11112, Indol
+11113, Indigo
+12114, Pyrimidin
+12115, Barbitursäure
+12116, Cytosin
+12117, Thymin
+12118, Uracil
+13119, Purin
+13120, Coffein
+13121, Adenin
+13122, Guanin
+13123, Harnsäure

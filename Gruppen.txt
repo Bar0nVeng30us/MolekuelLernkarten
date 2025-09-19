@@ -1,0 +1,13 @@
+01000, Alkane / Alkene / Alkine und einfache Derivate 
+02000, Einfache Aromaten 
+03000, Derivatisierte Aromaten
+04000, Alkohole 
+05000, Ether 
+06000, Carbonylverbindungen
+07000, Mono- und Disaccharide inkl. Nummerierung 
+08000, Carbonsäuren
+09000, Fischer-Projektionen einiger einfacher L-Aminosäuren in der physiologischen Form. Bis auf Asparaginsäure als Zwitterionen.
+10000, Kohlensäurederivate
+11000, 5- und 6-Ring Heterocyclen
+12000, Pyrimidinbasen inkl. Nummerierung der Nucleoside
+13000, Purinbasen inkl. Nummerierung der Nucleoside
